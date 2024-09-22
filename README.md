@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python frameworks like Flask, FastAPI.
 - 📫 How to reach me: [mail](subu.india18@outlook.com), [LinkedIn](https://www.linkedin.com/in/subramaniyaswamychellakumaran/)
 - 📛 You can call me: Subbu
-- 🎈 Fun Fact: I'm currently on a weight loss 🏋🏽‍♀️ regimen to reach 75 Kgs (24 kgs lost till 10-12-2023) ☺️
+- 🎈 Fun Fact: I'm currently on a weight loss 🏋🏽‍♀️ regimen to reach 75 Kgs (25 kgs lost till 22-09-2024) ☺️
 
 
