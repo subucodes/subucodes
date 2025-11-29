@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ### 🔥 Featured Projects
 
-| Project | Focus  | Platform  | Year | Traction  | Cost | Source  |
+| Project | Focus  | Platform  | Year | Users  | Cost | Source  |
 |------|----------|----------|-------------|-------|---------|--------------|
 | <img src="https://subbusyntax.gallerycdn.vsassets.io/extensions/subbusyntax/project-structure-extractor/0.1.1/1758375388352/Microsoft.VisualStudio.Services.Icons.Default" width="20" /> [Project Structure Extractor](https://marketplace.visualstudio.com/items?itemName=subbusyntax.project-structure-extractor&ssr=false#overview) | Productivity | VS Code Extension | 2024 | 1K | Free | [![Yes](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat&logo=github)](https://github.com/subucodes/vscode-ext-project-structure-extractor#project-structure-extractor)  |
 | <img src="https://subbusyntax.gallerycdn.vsassets.io/extensions/subbusyntax/timeforge/0.0.5/1738234779568/Microsoft.VisualStudio.Services.Icons.Default" width="20" /> [TimeForge](https://marketplace.visualstudio.com/items?itemName=subbusyntax.timeforge&ssr=false#overview) | Time tracking | VS Code Extension | 2025 | <100 | Free | [![Yes](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat&logo=github)](https://github.com/subucodes/vscode-ext-timeforge#timeforge)  |
