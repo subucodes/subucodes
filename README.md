@@ -5,6 +5,7 @@
 [![X](https://img.shields.io/badge/X-@subucodes-000?style=flat&logo=x-twitter)](https://x.com/subucodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@subucodes-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/subucodes)
 [![DEV.to](https://img.shields.io/badge/DEV.to-@subucodes-0A0A0A?style=flat&logo=devdotto)](https://dev.to/subucodes)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-@subucodes-DA552F?style=flat&logo=producthunt)](https://www.producthunt.com/@subucodes)
 
 </div>
 
