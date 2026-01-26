@@ -1,7 +1,6 @@
 
 <div align="left">
 
-[![Reddit](https://img.shields.io/badge/Reddit-@subucodes-FF4500?style=flat&logo=reddit)](https://reddit.com/user/subucodes)
 [![X](https://img.shields.io/badge/X-@subucodes-000?style=flat&logo=x-twitter)](https://x.com/subucodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@subucodes-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/subucodes)
 [![DEV.to](https://img.shields.io/badge/DEV.to-@subucodes-0A0A0A?style=flat&logo=devdotto)](https://dev.to/subucodes)
